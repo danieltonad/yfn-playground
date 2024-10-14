@@ -1,0 +1,1276 @@
+[
+    {
+        "ticker": "OP-USD",
+        "total_investment": 91600,
+        "quantity": 44372709.53072511,
+        "total_value": 69510423.76542722,
+        "total_pnl": 69418823.76542722
+    },
+    {
+        "ticker": "SHPING-USD",
+        "total_investment": 176800,
+        "quantity": 2899701899.596663,
+        "total_value": 16162434.931520408,
+        "total_pnl": 15985634.931520408
+    },
+    {
+        "ticker": "APE-USD",
+        "total_investment": 143100,
+        "quantity": 16295047.227356791,
+        "total_value": 11964169.455496054,
+        "total_pnl": 11821069.455496054
+    },
+    {
+        "ticker": "SOL-USD",
+        "total_investment": 161900,
+        "quantity": 28023.42370534465,
+        "total_value": 3844173.5243964237,
+        "total_pnl": 3682273.5243964237
+    },
+    {
+        "ticker": "LCX-USD",
+        "total_investment": 174800,
+        "quantity": 28046602.306312844,
+        "total_value": 3663288.458044953,
+        "total_pnl": 3488488.458044953
+    },
+    {
+        "ticker": "FET-USD",
+        "total_investment": 182700,
+        "quantity": 1947967.13420079,
+        "total_value": 2740835.862869966,
+        "total_pnl": 2558135.862869966
+    },
+    {
+        "ticker": "ABT-USD",
+        "total_investment": 182700,
+        "quantity": 1410582.7685884484,
+        "total_value": 2450353.938710956,
+        "total_pnl": 2267653.938710956
+    },
+    {
+        "ticker": "DOGE-USD",
+        "total_investment": 182700,
+        "quantity": 20215706.503168263,
+        "total_value": 2132027.543686872,
+        "total_pnl": 1949327.5436868719
+    },
+    {
+        "ticker": "TRAC-USD",
+        "total_investment": 182700,
+        "quantity": 2951973.9888279797,
+        "total_value": 1646731.074875767,
+        "total_pnl": 1464031.074875767
+    },
+    {
+        "ticker": "MATIC-USD",
+        "total_investment": 182700,
+        "quantity": 3101196.4586790265,
+        "total_value": 1173622.310450473,
+        "total_pnl": 990922.3104504731
+    },
+    {
+        "ticker": "AVT-USD",
+        "total_investment": 178300,
+        "quantity": 553052.8356448704,
+        "total_value": 1166764.9990938026,
+        "total_pnl": 988464.9990938026
+    },
+    {
+        "ticker": "AIOZ-USD",
+        "total_investment": 126200,
+        "quantity": 2491583.309046412,
+        "total_value": 1016397.1152820853,
+        "total_pnl": 890197.1152820853
+    },
+    {
+        "ticker": "XYO-USD",
+        "total_investment": 182700,
+        "quantity": 198808549.59522825,
+        "total_value": 876771.6357978922,
+        "total_pnl": 694071.6357978922
+    },
+    {
+        "ticker": "PRO-USD",
+        "total_investment": 182700,
+        "quantity": 817181.0849345017,
+        "total_value": 857986.4242323064,
+        "total_pnl": 675286.4242323064
+    },
+    {
+        "ticker": "TRB-USD",
+        "total_investment": 176200,
+        "quantity": 12300.325309660842,
+        "total_value": 796519.168303532,
+        "total_pnl": 620319.168303532
+    },
+    {
+        "ticker": "NCT-USD",
+        "total_investment": 182700,
+        "quantity": 44364550.84879264,
+        "total_value": 736057.5269263077,
+        "total_pnl": 553357.5269263077
+    },
+    {
+        "ticker": "QNT-USD",
+        "total_investment": 182700,
+        "quantity": 9791.174755593507,
+        "total_value": 728124.6489224675,
+        "total_pnl": 545424.6489224675
+    },
+    {
+        "ticker": "INJ-USD",
+        "total_investment": 142500,
+        "quantity": 33861.47029600702,
+        "total_value": 665453.7019279451,
+        "total_pnl": 522953.70192794513
+    },
+    {
+        "ticker": "RPL-USD",
+        "total_investment": 182700,
+        "quantity": 67959.95250677448,
+        "total_value": 697788.7881742066,
+        "total_pnl": 515088.7881742066
+    },
+    {
+        "ticker": "OCEAN-USD",
+        "total_investment": 182700,
+        "quantity": 1135325.5281313858,
+        "total_value": 691231.0403625818,
+        "total_pnl": 508531.04036258184
+    },
+    {
+        "ticker": "TIME-USD",
+        "total_investment": 182700,
+        "quantity": 41386.414179326464,
+        "total_value": 675605.3778256956,
+        "total_pnl": 492905.37782569556
+    },
+    {
+        "ticker": "ETH-USD",
+        "total_investment": 182700,
+        "quantity": 278.1016550404079,
+        "total_value": 672575.0019492039,
+        "total_pnl": 489875.0019492039
+    },
+    {
+        "ticker": "ANKR-USD",
+        "total_investment": 182700,
+        "quantity": 22685173.56449763,
+        "total_value": 575414.8494300547,
+        "total_pnl": 392714.84943005466
+    },
+    {
+        "ticker": "LPT-USD",
+        "total_investment": 182700,
+        "quantity": 45321.27558609883,
+        "total_value": 566358.5744835908,
+        "total_pnl": 383658.5744835908
+    },
+    {
+        "ticker": "BTC-USD",
+        "total_investment": 182700,
+        "quantity": 9.039408706095745,
+        "total_value": 542434.4365424559,
+        "total_pnl": 359734.4365424559
+    },
+    {
+        "ticker": "WBTC-USD",
+        "total_investment": 182700,
+        "quantity": 9.03195427472781,
+        "total_value": 541217.5269948768,
+        "total_pnl": 358517.5269948768
+    },
+    {
+        "ticker": "IOTX-USD",
+        "total_investment": 182700,
+        "quantity": 15076872.848287862,
+        "total_value": 534500.9834696088,
+        "total_pnl": 351800.9834696088
+    },
+    {
+        "ticker": "XCN-USD",
+        "total_investment": 182700,
+        "quantity": 874787618.2863731,
+        "total_value": 524970.7174721492,
+        "total_pnl": 342270.7174721492
+    },
+    {
+        "ticker": "PNG-USD",
+        "total_investment": 123700,
+        "quantity": 1776496.6867280356,
+        "total_value": 454065.04469068075,
+        "total_pnl": 330365.04469068075
+    },
+    {
+        "ticker": "MSOL-USD",
+        "total_investment": 106900,
+        "quantity": 2546.084296390428,
+        "total_value": 425117.910968815,
+        "total_pnl": 318217.910968815
+    },
+    {
+        "ticker": "GNO-USD",
+        "total_investment": 182700,
+        "quantity": 3186.077586358891,
+        "total_value": 490936.1204966903,
+        "total_pnl": 308236.1204966903
+    },
+    {
+        "ticker": "REQ-USD",
+        "total_investment": 182700,
+        "quantity": 4493154.206195241,
+        "total_value": 467074.06461012334,
+        "total_pnl": 284374.06461012334
+    },
+    {
+        "ticker": "COTI-USD",
+        "total_investment": 182700,
+        "quantity": 3987875.9987800405,
+        "total_value": 450531.8115981325,
+        "total_pnl": 267831.8115981325
+    },
+    {
+        "ticker": "SWFTC-USD",
+        "total_investment": 182700,
+        "quantity": 123583489.52269891,
+        "total_value": 417376.9927381504,
+        "total_pnl": 234676.9927381504
+    },
+    {
+        "ticker": "DEXT-USD",
+        "total_investment": 151900,
+        "quantity": 827388.8066082476,
+        "total_value": 384397.8833203995,
+        "total_pnl": 232497.8833203995
+    },
+    {
+        "ticker": "MANA-USD",
+        "total_investment": 182700,
+        "quantity": 1431144.585243737,
+        "total_value": 393531.16014365165,
+        "total_pnl": 210831.16014365165
+    },
+    {
+        "ticker": "GLM-USD",
+        "total_investment": 182700,
+        "quantity": 1387544.8398041148,
+        "total_value": 390840.84310908266,
+        "total_pnl": 208140.84310908266
+    },
+    {
+        "ticker": "ADA-USD",
+        "total_investment": 182700,
+        "quantity": 1100617.3510271278,
+        "total_value": 390127.4514129411,
+        "total_pnl": 207427.4514129411
+    },
+    {
+        "ticker": "KRL-USD",
+        "total_investment": 182700,
+        "quantity": 1044199.2557934367,
+        "total_value": 370098.58156156255,
+        "total_pnl": 187398.58156156255
+    },
+    {
+        "ticker": "JASMY-USD",
+        "total_investment": 131200,
+        "quantity": 14883455.360629834,
+        "total_value": 305303.82031085837,
+        "total_pnl": 174103.82031085837
+    },
+    {
+        "ticker": "BLZ-USD",
+        "total_investment": 182700,
+        "quantity": 2809710.9758994505,
+        "total_value": 354079.4823788464,
+        "total_pnl": 171379.48237884638
+    },
+    {
+        "ticker": "DNT-USD",
+        "total_investment": 182700,
+        "quantity": 9744596.453137293,
+        "total_value": 353223.89615391364,
+        "total_pnl": 170523.89615391364
+    },
+    {
+        "ticker": "CHZ-USD",
+        "total_investment": 182700,
+        "quantity": 6305663.851337084,
+        "total_value": 338261.816182346,
+        "total_pnl": 155561.81618234603
+    },
+    {
+        "ticker": "RARE-USD",
+        "total_investment": 135700,
+        "quantity": 29349398.784202285,
+        "total_value": 289162.15470503096,
+        "total_pnl": 153462.15470503096
+    },
+    {
+        "ticker": "MDT-USD",
+        "total_investment": 182700,
+        "quantity": 8288736.660497644,
+        "total_value": 335174.9009060474,
+        "total_pnl": 152474.90090604738
+    },
+    {
+        "ticker": "MKR-USD",
+        "total_investment": 182700,
+        "quantity": 203.08638407366823,
+        "total_value": 325666.39522580325,
+        "total_pnl": 142966.39522580325
+    },
+    {
+        "ticker": "KSM-USD",
+        "total_investment": 173900,
+        "quantity": 13535.843713334612,
+        "total_value": 292906.84590254445,
+        "total_pnl": 119006.84590254445
+    },
+    {
+        "ticker": "MPL-USD",
+        "total_investment": 123300,
+        "quantity": 12520.458001726889,
+        "total_value": 227769.27531238287,
+        "total_pnl": 104469.27531238287
+    },
+    {
+        "ticker": "LINK-USD",
+        "total_investment": 182700,
+        "quantity": 24798.476420968895,
+        "total_value": 280160.18761026365,
+        "total_pnl": 97460.18761026365
+    },
+    {
+        "ticker": "MUSE-USD",
+        "total_investment": 138400,
+        "quantity": 27440.44201154469,
+        "total_value": 232998.91764399395,
+        "total_pnl": 94598.91764399395
+    },
+    {
+        "ticker": "CVC-USD",
+        "total_investment": 182700,
+        "quantity": 2579347.6135546593,
+        "total_value": 275144.85122021026,
+        "total_pnl": 92444.85122021026
+    },
+    {
+        "ticker": "AVAX-USD",
+        "total_investment": 145600,
+        "quantity": 9312.066753638814,
+        "total_value": 235871.96819419035,
+        "total_pnl": 90271.96819419035
+    },
+    {
+        "ticker": "NEAR-USD",
+        "total_investment": 143200,
+        "quantity": 55471.255550094844,
+        "total_value": 232668.49279951488,
+        "total_pnl": 89468.49279951488
+    },
+    {
+        "ticker": "ACH-USD",
+        "total_investment": 146700,
+        "quantity": 12146609.969818372,
+        "total_value": 235581.59222677906,
+        "total_pnl": 88881.59222677906
+    },
+    {
+        "ticker": "AAVE-USD",
+        "total_investment": 144400,
+        "quantity": 1640.51124401387,
+        "total_value": 229849.6783718594,
+        "total_pnl": 85449.6783718594
+    },
+    {
+        "ticker": "ETC-USD",
+        "total_investment": 182700,
+        "quantity": 14375.915470231019,
+        "total_value": 267419.94667087996,
+        "total_pnl": 84719.94667087996
+    },
+    {
+        "ticker": "ARPA-USD",
+        "total_investment": 182700,
+        "quantity": 6516917.984665975,
+        "total_value": 265423.3359164227,
+        "total_pnl": 82723.33591642271
+    },
+    {
+        "ticker": "AUCTION-USD",
+        "total_investment": 129700,
+        "quantity": 13884.368490482426,
+        "total_value": 205792.26299407793,
+        "total_pnl": 76092.26299407793
+    },
+    {
+        "ticker": "RLC-USD",
+        "total_investment": 182700,
+        "quantity": 173058.00287333847,
+        "total_value": 258359.223254676,
+        "total_pnl": 75659.223254676
+    },
+    {
+        "ticker": "BCH-USD",
+        "total_investment": 182700,
+        "quantity": 784.4785852421436,
+        "total_value": 256644.46265099518,
+        "total_pnl": 73944.46265099518
+    },
+    {
+        "ticker": "POWR-USD",
+        "total_investment": 182700,
+        "quantity": 1324084.532694386,
+        "total_value": 256095.1476575609,
+        "total_pnl": 73395.14765756091
+    },
+    {
+        "ticker": "NKN-USD",
+        "total_investment": 182700,
+        "quantity": 3620933.747513118,
+        "total_value": 252942.25884642167,
+        "total_pnl": 70242.25884642167
+    },
+    {
+        "ticker": "METIS-USD",
+        "total_investment": 122100,
+        "quantity": 5587.319835722182,
+        "total_value": 181813.39607951164,
+        "total_pnl": 59713.39607951164
+    },
+    {
+        "ticker": "ORCA-USD",
+        "total_investment": 113200,
+        "quantity": 93508.31790978907,
+        "total_value": 172347.80693339652,
+        "total_pnl": 59147.806933396525
+    },
+    {
+        "ticker": "CELR-USD",
+        "total_investment": 182700,
+        "quantity": 20003253.71862599,
+        "total_value": 235640.0671834613,
+        "total_pnl": 52940.0671834613
+    },
+    {
+        "ticker": "AST-USD",
+        "total_investment": 182700,
+        "quantity": 2747735.5148324994,
+        "total_value": 233804.04774982322,
+        "total_pnl": 51104.04774982322
+    },
+    {
+        "ticker": "AERGO-USD",
+        "total_investment": 182700,
+        "quantity": 2412805.8789334516,
+        "total_value": 227714.77336061446,
+        "total_pnl": 45014.77336061446
+    },
+    {
+        "ticker": "AGLD-USD",
+        "total_investment": 110900,
+        "quantity": 177321.07097384497,
+        "total_value": 154771.67417211476,
+        "total_pnl": 43871.674172114755
+    },
+    {
+        "ticker": "ENS-USD",
+        "total_investment": 104100,
+        "quantity": 7750.800728096597,
+        "total_value": 136034.20470691466,
+        "total_pnl": 31934.204706914665
+    },
+    {
+        "ticker": "MNDE-USD",
+        "total_investment": 94200,
+        "quantity": 1266450.0110644563,
+        "total_value": 124743.91819481103,
+        "total_pnl": 30543.918194811034
+    },
+    {
+        "ticker": "AXS-USD",
+        "total_investment": 141100,
+        "quantity": 36003.40384383027,
+        "total_value": 171408.46875965258,
+        "total_pnl": 30308.468759652576
+    },
+    {
+        "ticker": "MLN-USD",
+        "total_investment": 182700,
+        "quantity": 13738.379806352521,
+        "total_value": 211307.57686618902,
+        "total_pnl": 28607.576866189018
+    },
+    {
+        "ticker": "INDEX-USD",
+        "total_investment": 143800,
+        "quantity": 47295.10597114392,
+        "total_value": 171742.0404520982,
+        "total_pnl": 27942.040452098212
+    },
+    {
+        "ticker": "ALEPH-USD",
+        "total_investment": 153000,
+        "quantity": 1071294.4877965194,
+        "total_value": 180007.94590565766,
+        "total_pnl": 27007.94590565766
+    },
+    {
+        "ticker": "CBETH-USD",
+        "total_investment": 75300,
+        "quantity": 38.212206558161924,
+        "total_value": 99765.60622103051,
+        "total_pnl": 24465.60622103051
+    },
+    {
+        "ticker": "SHIB-USD",
+        "total_investment": 146500,
+        "quantity": 12150548313.885479,
+        "total_value": 166889.3811727273,
+        "total_pnl": 20389.3811727273
+    },
+    {
+        "ticker": "STORJ-USD",
+        "total_investment": 182700,
+        "quantity": 558478.1590438964,
+        "total_value": 202195.86729195816,
+        "total_pnl": 19495.86729195816
+    },
+    {
+        "ticker": "ICP-USD",
+        "total_investment": 122400,
+        "quantity": 16023.957744276406,
+        "total_value": 138538.39988252282,
+        "total_pnl": 16138.39988252282
+    },
+    {
+        "ticker": "CTSI-USD",
+        "total_investment": 160600,
+        "quantity": 1309524.1715205049,
+        "total_value": 171893.30427789193,
+        "total_pnl": 11293.304277891933
+    },
+    {
+        "ticker": "SAND-USD",
+        "total_investment": 149300,
+        "quantity": 623166.4960570682,
+        "total_value": 158964.24611442446,
+        "total_pnl": 9664.246114424459
+    },
+    {
+        "ticker": "RBN-USD",
+        "total_investment": 107400,
+        "quantity": 333596.2340637754,
+        "total_value": 115795.66361417061,
+        "total_pnl": 8395.663614170611
+    },
+    {
+        "ticker": "IDEX-USD",
+        "total_investment": 182700,
+        "quantity": 4553034.014851665,
+        "total_value": 187261.26328634145,
+        "total_pnl": 4561.263286341447
+    },
+    {
+        "ticker": "FX-USD",
+        "total_investment": 182700,
+        "quantity": 1333095.6509680867,
+        "total_value": 184914.2832482849,
+        "total_pnl": 2214.28324828489
+    },
+    {
+        "ticker": "ELA-USD",
+        "total_investment": 182700,
+        "quantity": 96844.1065975514,
+        "total_value": 183963.67078960934,
+        "total_pnl": 1263.670789609343
+    },
+    {
+        "ticker": "GUSD-USD",
+        "total_investment": 182700,
+        "quantity": 182983.70032137242,
+        "total_value": 183002.48162167598,
+        "total_pnl": 302.4816216759791
+    },
+    {
+        "ticker": "USDT-USD",
+        "total_investment": 182700,
+        "quantity": 182575.41441926023,
+        "total_value": 182618.356143638,
+        "total_pnl": -81.64385636200313
+    },
+    {
+        "ticker": "DAI-USD",
+        "total_investment": 175900,
+        "quantity": 175598.08614763495,
+        "total_value": 175596.86157163384,
+        "total_pnl": -303.13842836616095
+    },
+    {
+        "ticker": "LRC-USD",
+        "total_investment": 182700,
+        "quantity": 1466658.2412336948,
+        "total_value": 177595.67201987558,
+        "total_pnl": -5104.327980124421
+    },
+    {
+        "ticker": "CRO-USD",
+        "total_investment": 182700,
+        "quantity": 2147787.6749942442,
+        "total_value": 177056.26294456472,
+        "total_pnl": -5643.737055435282
+    },
+    {
+        "ticker": "GYEN-USD",
+        "total_investment": 128500,
+        "quantity": 17197725.87938248,
+        "total_value": 120396.85813423456,
+        "total_pnl": -8103.141865765443
+    },
+    {
+        "ticker": "WCFG-USD",
+        "total_investment": 115700,
+        "quantity": 305197.8878049378,
+        "total_value": 107133.03002742154,
+        "total_pnl": -8566.96997257846
+    },
+    {
+        "ticker": "MATH-USD",
+        "total_investment": 157800,
+        "quantity": 866903.4795709613,
+        "total_value": 146627.98662591446,
+        "total_pnl": -11172.013374085538
+    },
+    {
+        "ticker": "DAR-USD",
+        "total_investment": 104600,
+        "quantity": 594384.340885645,
+        "total_value": 90471.58427198886,
+        "total_pnl": -14128.41572801114
+    },
+    {
+        "ticker": "HBAR-USD",
+        "total_investment": 182500,
+        "quantity": 3196381.4771830775,
+        "total_value": 165142.2060149864,
+        "total_pnl": -17357.793985013588
+    },
+    {
+        "ticker": "NMR-USD",
+        "total_investment": 182700,
+        "quantity": 11192.411899625135,
+        "total_value": 164590.671044714,
+        "total_pnl": -18109.328955286008
+    },
+    {
+        "ticker": "BAND-USD",
+        "total_investment": 182400,
+        "quantity": 144889.45158769324,
+        "total_value": 163916.40341464672,
+        "total_pnl": -18483.596585353283
+    },
+    {
+        "ticker": "BOBA-USD",
+        "total_investment": 102900,
+        "quantity": 407698.27434171445,
+        "total_value": 83951.84184198438,
+        "total_pnl": -18948.15815801562
+    },
+    {
+        "ticker": "DYP-USD",
+        "total_investment": 136200,
+        "quantity": 566499.6794766925,
+        "total_value": 117237.2571976358,
+        "total_pnl": -18962.7428023642
+    },
+    {
+        "ticker": "XLM-USD",
+        "total_investment": 182700,
+        "quantity": 1677452.892267699,
+        "total_value": 163025.51027846232,
+        "total_pnl": -19674.489721537684
+    },
+    {
+        "ticker": "CTX-USD",
+        "total_investment": 119400,
+        "quantity": 47748.0670684383,
+        "total_value": 98949.34190827465,
+        "total_pnl": -20450.658091725345
+    },
+    {
+        "ticker": "ASM-USD",
+        "total_investment": 150400,
+        "quantity": 6883970.312794998,
+        "total_value": 129565.5461806389,
+        "total_pnl": -20834.453819361093
+    },
+    {
+        "ticker": "FARM-USD",
+        "total_investment": 147400,
+        "quantity": 2910.7152157486676,
+        "total_value": 126243.4007886962,
+        "total_pnl": -21156.599211303794
+    },
+    {
+        "ticker": "LTC-USD",
+        "total_investment": 182700,
+        "quantity": 2434.4628291727613,
+        "total_value": 160603.29886611341,
+        "total_pnl": -22096.701133886585
+    },
+    {
+        "ticker": "TRU-USD",
+        "total_investment": 123200,
+        "quantity": 791334.6604374,
+        "total_value": 100388.29656682102,
+        "total_pnl": -22811.703433178976
+    },
+    {
+        "ticker": "T-USD",
+        "total_investment": 94800,
+        "quantity": 3287179.1652475162,
+        "total_value": 71568.27806299449,
+        "total_pnl": -23231.72193700551
+    },
+    {
+        "ticker": "ORN-USD",
+        "total_investment": 152200,
+        "quantity": 107456.63470199778,
+        "total_value": 128202.47314334025,
+        "total_pnl": -23997.52685665975
+    },
+    {
+        "ticker": "ZRX-USD",
+        "total_investment": 182700,
+        "quantity": 540485.3702386576,
+        "total_value": 158687.41905353154,
+        "total_pnl": -24012.580946468457
+    },
+    {
+        "ticker": "ROSE-USD",
+        "total_investment": 139600,
+        "quantity": 1870106.3145724211,
+        "total_value": 114461.01286521835,
+        "total_pnl": -25138.98713478165
+    },
+    {
+        "ticker": "MEDIA-USD",
+        "total_investment": 123300,
+        "quantity": 8733.71776414927,
+        "total_value": 98002.49383338216,
+        "total_pnl": -25297.506166617837
+    },
+    {
+        "ticker": "POND-USD",
+        "total_investment": 136400,
+        "quantity": 8490978.41193429,
+        "total_value": 109594.71329683928,
+        "total_pnl": -26805.286703160717
+    },
+    {
+        "ticker": "HIGH-USD",
+        "total_investment": 106700,
+        "quantity": 57873.96362131585,
+        "total_value": 76959.05191072957,
+        "total_pnl": -29740.94808927043
+    },
+    {
+        "ticker": "ERN-USD",
+        "total_investment": 128700,
+        "quantity": 47548.130378312,
+        "total_value": 98777.34614189736,
+        "total_pnl": -29922.65385810264
+    },
+    {
+        "ticker": "GHST-USD",
+        "total_investment": 146100,
+        "quantity": 133529.52299064328,
+        "total_value": 115586.64774298342,
+        "total_pnl": -30513.35225701658
+    },
+    {
+        "ticker": "POLS-USD",
+        "total_investment": 144700,
+        "quantity": 326955.26429413067,
+        "total_value": 112437.91625956648,
+        "total_pnl": -32262.083740433518
+    },
+    {
+        "ticker": "LOKA-USD",
+        "total_investment": 96800,
+        "quantity": 283642.806966853,
+        "total_value": 62211.13956557852,
+        "total_pnl": -34588.86043442148
+    },
+    {
+        "ticker": "API3-USD",
+        "total_investment": 138300,
+        "quantity": 67647.08636541247,
+        "total_value": 102821.44911079035,
+        "total_pnl": -35478.550889209655
+    },
+    {
+        "ticker": "FORTH-USD",
+        "total_investment": 124300,
+        "quantity": 29020.883599384822,
+        "total_value": 88819.74001424681,
+        "total_pnl": -35480.25998575319
+    },
+    {
+        "ticker": "BNT-USD",
+        "total_investment": 182700,
+        "quantity": 302593.16968800465,
+        "total_value": 147026.50856914665,
+        "total_pnl": -35673.49143085335
+    },
+    {
+        "ticker": "PUNDIX-USD",
+        "total_investment": 126000,
+        "quantity": 228611.81325084236,
+        "total_value": 88309.04335535895,
+        "total_pnl": -37690.956644641046
+    },
+    {
+        "ticker": "00-USD",
+        "total_investment": 70500,
+        "quantity": 877978.203455186,
+        "total_value": 31773.739589392077,
+        "total_pnl": -38726.26041060792
+    },
+    {
+        "ticker": "SPELL-USD",
+        "total_investment": 112500,
+        "quantity": 133901604.79701917,
+        "total_value": 73518.63577563621,
+        "total_pnl": -38981.36422436379
+    },
+    {
+        "ticker": "LQTY-USD",
+        "total_investment": 125700,
+        "quantity": 95059.130523804,
+        "total_value": 86072.68227303497,
+        "total_pnl": -39627.31772696503
+    },
+    {
+        "ticker": "GODS-USD",
+        "total_investment": 105200,
+        "quantity": 367915.3602496439,
+        "total_value": 64770.246411825494,
+        "total_pnl": -40429.753588174506
+    },
+    {
+        "ticker": "PYR-USD",
+        "total_investment": 124500,
+        "quantity": 30312.604151871343,
+        "total_value": 81990.70640664855,
+        "total_pnl": -42509.29359335145
+    },
+    {
+        "ticker": "AMP-USD",
+        "total_investment": 146500,
+        "quantity": 27320646.677389763,
+        "total_value": 103882.48343260452,
+        "total_pnl": -42617.516567395476
+    },
+    {
+        "ticker": "DIA-USD",
+        "total_investment": 150300,
+        "quantity": 289193.22890798823,
+        "total_value": 107681.37668988488,
+        "total_pnl": -42618.623310115116
+    },
+    {
+        "ticker": "BICO-USD",
+        "total_investment": 101900,
+        "quantity": 262487.26629734307,
+        "total_value": 58483.770896355934,
+        "total_pnl": -43416.229103644066
+    },
+    {
+        "ticker": "UMA-USD",
+        "total_investment": 157400,
+        "quantity": 50513.958640070334,
+        "total_value": 113918.44867869,
+        "total_pnl": -43481.551321310006
+    },
+    {
+        "ticker": "RARI-USD",
+        "total_investment": 151800,
+        "quantity": 65383.45824094627,
+        "total_value": 108244.2984282582,
+        "total_pnl": -43555.701571741796
+    },
+    {
+        "ticker": "FOX-USD",
+        "total_investment": 134800,
+        "quantity": 2410221.9686463294,
+        "total_value": 91156.08581667823,
+        "total_pnl": -43643.91418332177
+    },
+    {
+        "ticker": "APT-USD",
+        "total_investment": 102800,
+        "quantity": 158887147.09556603,
+        "total_value": 58151.50628901351,
+        "total_pnl": -44648.49371098649
+    },
+    {
+        "ticker": "ZEN-USD",
+        "total_investment": 182700,
+        "quantity": 16911.943139318755,
+        "total_value": 136926.53824233823,
+        "total_pnl": -45773.461757661775
+    },
+    {
+        "ticker": "CLV-USD",
+        "total_investment": 115700,
+        "quantity": 1599091.3086363936,
+        "total_value": 69534.66385641044,
+        "total_pnl": -46165.336143589564
+    },
+    {
+        "ticker": "BADGER-USD",
+        "total_investment": 138100,
+        "quantity": 31702.61878051269,
+        "total_value": 89225.77636928398,
+        "total_pnl": -48874.22363071602
+    },
+    {
+        "ticker": "EGLD-USD",
+        "total_investment": 147200,
+        "quantity": 3682.9969720602153,
+        "total_value": 97492.06738890054,
+        "total_pnl": -49707.93261109946
+    },
+    {
+        "ticker": "HOPR-USD",
+        "total_investment": 129600,
+        "quantity": 1531508.4982327227,
+        "total_value": 79729.82556157335,
+        "total_pnl": -49870.17443842665
+    },
+    {
+        "ticker": "FIS-USD",
+        "total_investment": 146300,
+        "quantity": 295362.65017598984,
+        "total_value": 95964.03842437346,
+        "total_pnl": -50335.96157562654
+    },
+    {
+        "ticker": "SUKU-USD",
+        "total_investment": 150300,
+        "quantity": 1596906.3099906389,
+        "total_value": 97615.00149115386,
+        "total_pnl": -52684.99850884614
+    },
+    {
+        "ticker": "MINA-USD",
+        "total_investment": 120200,
+        "quantity": 151056.83010845818,
+        "total_value": 66176.04050245194,
+        "total_pnl": -54023.95949754806
+    },
+    {
+        "ticker": "KNC-USD",
+        "total_investment": 114500,
+        "quantity": 136266.07635643106,
+        "total_value": 60380.705298296445,
+        "total_pnl": -54119.294701703555
+    },
+    {
+        "ticker": "ALICE-USD",
+        "total_investment": 128000,
+        "quantity": 71686.48716165613,
+        "total_value": 72008.0018523513,
+        "total_pnl": -55991.9981476487
+    },
+    {
+        "ticker": "LDO-USD",
+        "total_investment": 134900,
+        "quantity": 76671.47904687861,
+        "total_value": 78848.1039059899,
+        "total_pnl": -56051.896094010095
+    },
+    {
+        "ticker": "SKL-USD",
+        "total_investment": 138300,
+        "quantity": 2442057.675371838,
+        "total_value": 82053.71719869939,
+        "total_pnl": -56246.28280130061
+    },
+    {
+        "ticker": "PRQ-USD",
+        "total_investment": 148700,
+        "quantity": 1089562.1844224315,
+        "total_value": 92379.09750130499,
+        "total_pnl": -56320.90249869501
+    },
+    {
+        "ticker": "PERP-USD",
+        "total_investment": 146300,
+        "quantity": 144489.18883465423,
+        "total_value": 89201.53497800931,
+        "total_pnl": -57098.46502199069
+    },
+    {
+        "ticker": "BTRST-USD",
+        "total_investment": 109600,
+        "quantity": 130400.52596944128,
+        "total_value": 51789.06761441565,
+        "total_pnl": -57810.93238558435
+    },
+    {
+        "ticker": "GAL-USD",
+        "total_investment": 156000,
+        "quantity": 56460.18953979187,
+        "total_value": 97841.31085258613,
+        "total_pnl": -58158.68914741387
+    },
+    {
+        "ticker": "UNI-USD",
+        "total_investment": 179100,
+        "quantity": 992615325.9169418,
+        "total_value": 119734.658737199,
+        "total_pnl": -59365.341262801
+    },
+    {
+        "ticker": "FIDA-USD",
+        "total_investment": 136200,
+        "quantity": 318175.4631402631,
+        "total_value": 76773.10371128727,
+        "total_pnl": -59426.89628871273
+    },
+    {
+        "ticker": "DESO-USD",
+        "total_investment": 118700,
+        "quantity": 8479.768274201915,
+        "total_value": 57646.76957151768,
+        "total_pnl": -61053.23042848232
+    },
+    {
+        "ticker": "ZEC-USD",
+        "total_investment": 182700,
+        "quantity": 3937.387681457951,
+        "total_value": 120634.94738219115,
+        "total_pnl": -62065.05261780885
+    },
+    {
+        "ticker": "ALCX-USD",
+        "total_investment": 129600,
+        "quantity": 4768.8560687808385,
+        "total_value": 67436.39723421131,
+        "total_pnl": -62163.60276578869
+    },
+    {
+        "ticker": "DOT-USD",
+        "total_investment": 148700,
+        "quantity": 19450.22616596866,
+        "total_value": 86342.8675022575,
+        "total_pnl": -62357.132497742496
+    },
+    {
+        "ticker": "ILV-USD",
+        "total_investment": 126400,
+        "quantity": 1581.146860240394,
+        "total_value": 63312.65624721869,
+        "total_pnl": -63087.34375278131
+    },
+    {
+        "ticker": "SNX-USD",
+        "total_investment": 182700,
+        "quantity": 82761.14112951874,
+        "total_value": 119067.00020440406,
+        "total_pnl": -63632.99979559594
+    },
+    {
+        "ticker": "CVX-USD",
+        "total_investment": 121600,
+        "quantity": 26770.321022480217,
+        "total_value": 56564.19255904129,
+        "total_pnl": -65035.80744095871
+    },
+    {
+        "ticker": "C98-USD",
+        "total_investment": 114900,
+        "quantity": 405016.6824856932,
+        "total_value": 49388.308355499765,
+        "total_pnl": -65511.691644500235
+    },
+    {
+        "ticker": "RAD-USD",
+        "total_investment": 129500,
+        "quantity": 57013.2243545877,
+        "total_value": 63690.30891849309,
+        "total_pnl": -65809.69108150691
+    },
+    {
+        "ticker": "BAT-USD",
+        "total_investment": 182700,
+        "quantity": 659556.1986947601,
+        "total_value": 114139.73915271956,
+        "total_pnl": -68560.26084728044
+    },
+    {
+        "ticker": "PLU-USD",
+        "total_investment": 182700,
+        "quantity": 48974.58868321534,
+        "total_value": 111335.50546778148,
+        "total_pnl": -71364.49453221852
+    },
+    {
+        "ticker": "FLOW-USD",
+        "total_investment": 132700,
+        "quantity": 107788.77634251295,
+        "total_value": 60320.37198884747,
+        "total_pnl": -72379.62801115253
+    },
+    {
+        "ticker": "AUDIO-USD",
+        "total_investment": 142300,
+        "quantity": 537676.4088602781,
+        "total_value": 68587.99215989983,
+        "total_pnl": -73712.00784010017
+    },
+    {
+        "ticker": "YFI-USD",
+        "total_investment": 151800,
+        "quantity": 15.769696110097582,
+        "total_value": 77605.30797383984,
+        "total_pnl": -74194.69202616016
+    },
+    {
+        "ticker": "ATOM-USD",
+        "total_investment": 182700,
+        "quantity": 25491.816251366898,
+        "total_value": 108086.46199392295,
+        "total_pnl": -74613.53800607705
+    },
+    {
+        "ticker": "OXT-USD",
+        "total_investment": 173400,
+        "quantity": 1346537.4075496248,
+        "total_value": 98466.14626450045,
+        "total_pnl": -74933.85373549955
+    },
+    {
+        "ticker": "1INCH-USD",
+        "total_investment": 136000,
+        "quantity": 226267.386690149,
+        "total_value": 59326.39122749906,
+        "total_pnl": -76673.60877250094
+    },
+    {
+        "ticker": "SUSHI-USD",
+        "total_investment": 147900,
+        "quantity": 107246.38414286487,
+        "total_value": 69782.20207291764,
+        "total_pnl": -78117.79792708236
+    },
+    {
+        "ticker": "INV-USD",
+        "total_investment": 128700,
+        "quantity": 2154.0899428714133,
+        "total_value": 47896.74996416706,
+        "total_pnl": -80803.25003583294
+    },
+    {
+        "ticker": "OGN-USD",
+        "total_investment": 171100,
+        "quantity": 969860.968079696,
+        "total_value": 88844.04191259072,
+        "total_pnl": -82255.95808740928
+    },
+    {
+        "ticker": "FIL-USD",
+        "total_investment": 182700,
+        "quantity": 25889.10324910623,
+        "total_value": 94788.1179310138,
+        "total_pnl": -87911.8820689862
+    },
+    {
+        "ticker": "ALGO-USD",
+        "total_investment": 182700,
+        "quantity": 718358.1891900632,
+        "total_value": 94287.15202912681,
+        "total_pnl": -88412.84797087319
+    },
+    {
+        "ticker": "STX-USD",
+        "total_investment": 178400,
+        "quantity": 16905371.448950075,
+        "total_value": 89477.75408438093,
+        "total_pnl": -88922.24591561907
+    },
+    {
+        "ticker": "GFI-USD",
+        "total_investment": 119000,
+        "quantity": 57601270.289039485,
+        "total_value": 22564.948093165433,
+        "total_pnl": -96435.05190683456
+    },
+    {
+        "ticker": "QI-USD",
+        "total_investment": 130500,
+        "quantity": 8392834.226739237,
+        "total_value": 33810.92789718012,
+        "total_pnl": -96689.07210281989
+    },
+    {
+        "ticker": "CRV-USD",
+        "total_investment": 149300,
+        "quantity": 186205.93245994626,
+        "total_value": 51231.6435434772,
+        "total_pnl": -98068.3564565228
+    },
+    {
+        "ticker": "DASH-USD",
+        "total_investment": 182700,
+        "quantity": 3397.331126411587,
+        "total_value": 83245.12946647278,
+        "total_pnl": -99454.87053352722
+    },
+    {
+        "ticker": "XTZ-USD",
+        "total_investment": 182700,
+        "quantity": 127000.01594783575,
+        "total_value": 82581.9518555092,
+        "total_pnl": -100118.0481444908
+    },
+    {
+        "ticker": "GTC-USD",
+        "total_investment": 182700,
+        "quantity": 170516284.25518098,
+        "total_value": 81144.82139788978,
+        "total_pnl": -101555.17860211022
+    },
+    {
+        "ticker": "BAL-USD",
+        "total_investment": 154400,
+        "quantity": 23778.59675457253,
+        "total_value": 45326.24078173963,
+        "total_pnl": -109073.75921826037
+    },
+    {
+        "ticker": "EOS-USD",
+        "total_investment": 182700,
+        "quantity": 135567.36272472932,
+        "total_value": 67615.89093235655,
+        "total_pnl": -115084.10906764345
+    },
+    {
+        "ticker": "KAVA-USD",
+        "total_investment": 178700,
+        "quantity": 162445.3608822208,
+        "total_value": 51069.81784978308,
+        "total_pnl": -127630.18215021692
+    },
+    {
+        "ticker": "LIT-USD",
+        "total_investment": 182700,
+        "quantity": 112314210.94982065,
+        "total_value": 22274.5504479899,
+        "total_pnl": -160425.4495520101
+    }
+]

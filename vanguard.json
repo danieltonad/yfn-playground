@@ -1,0 +1,786 @@
+[
+    {
+        "ticker": "VDE",
+        "total_investment": 125800,
+        "quantity": 1724.6982669541376,
+        "total_value": 214552.46704077543,
+        "total_pnl": 88752.46704077543
+    },
+    {
+        "ticker": "VGT",
+        "total_investment": 125800,
+        "quantity": 359.9264780448532,
+        "total_value": 208181.4836884106,
+        "total_pnl": 82381.4836884106
+    },
+    {
+        "ticker": "MGK",
+        "total_investment": 125800,
+        "quantity": 627.1341457268588,
+        "total_value": 200657.83590795347,
+        "total_pnl": 74857.83590795347
+    },
+    {
+        "ticker": "VGT.MX",
+        "total_investment": 126000,
+        "quantity": 17.916341322218884,
+        "total_value": 199762.18426817076,
+        "total_pnl": 73762.18426817076
+    },
+    {
+        "ticker": "VONG",
+        "total_investment": 125800,
+        "quantity": 2068.9276474722897,
+        "total_value": 198927.3964613937,
+        "total_pnl": 73127.39646139371
+    },
+    {
+        "ticker": "VUG",
+        "total_investment": 125800,
+        "quantity": 511.714518939534,
+        "total_value": 195341.89546276562,
+        "total_pnl": 69541.89546276562
+    },
+    {
+        "ticker": "MGC",
+        "total_investment": 125800,
+        "quantity": 932.7217008874815,
+        "total_value": 191870.18735173345,
+        "total_pnl": 66070.18735173345
+    },
+    {
+        "ticker": "VOOG",
+        "total_investment": 125800,
+        "quantity": 553.3077503819472,
+        "total_value": 189707.08719086045,
+        "total_pnl": 63907.087190860446
+    },
+    {
+        "ticker": "VUG.MX",
+        "total_investment": 126000,
+        "quantity": 25.75326024368718,
+        "total_value": 189028.9301886639,
+        "total_pnl": 63028.930188663886
+    },
+    {
+        "ticker": "VOO",
+        "total_investment": 125800,
+        "quantity": 359.06668925051974,
+        "total_value": 188510.01185652288,
+        "total_pnl": 62710.01185652288
+    },
+    {
+        "ticker": "VIS",
+        "total_investment": 125800,
+        "quantity": 730.4286744657493,
+        "total_value": 187734.7698864578,
+        "total_pnl": 61934.7698864578
+    },
+    {
+        "ticker": "VV",
+        "total_investment": 125800,
+        "quantity": 714.3439839248023,
+        "total_value": 187129.54392492768,
+        "total_pnl": 61329.54392492768
+    },
+    {
+        "ticker": "VFMO",
+        "total_investment": 125800,
+        "quantity": 1151.7848989624297,
+        "total_value": 185817.45985858992,
+        "total_pnl": 60017.45985858992
+    },
+    {
+        "ticker": "VONE",
+        "total_investment": 125800,
+        "quantity": 717.1097569903043,
+        "total_value": 185509.12478657806,
+        "total_pnl": 59709.12478657806
+    },
+    {
+        "ticker": "VFMF",
+        "total_investment": 125800,
+        "quantity": 1416.646944935563,
+        "total_value": 184645.75761498522,
+        "total_pnl": 58845.757614985225
+    },
+    {
+        "ticker": "VFH",
+        "total_investment": 125800,
+        "quantity": 1660.9291495038715,
+        "total_value": 184213.6580539786,
+        "total_pnl": 58413.65805397861
+    },
+    {
+        "ticker": "ESGV",
+        "total_investment": 125800,
+        "quantity": 1822.5839435691737,
+        "total_value": 184172.1130597498,
+        "total_pnl": 58372.1130597498
+    },
+    {
+        "ticker": "VTI",
+        "total_investment": 125800,
+        "quantity": 652.2185892191332,
+        "total_value": 184056.09383929207,
+        "total_pnl": 58256.093839292065
+    },
+    {
+        "ticker": "VTHR",
+        "total_investment": 125800,
+        "quantity": 726.9719918991111,
+        "total_value": 183923.9139504751,
+        "total_pnl": 58123.91395047511
+    },
+    {
+        "ticker": "VOOV",
+        "total_investment": 125800,
+        "quantity": 964.1666728542255,
+        "total_value": 183336.2869584246,
+        "total_pnl": 57536.28695842461
+    },
+    {
+        "ticker": "VFVA",
+        "total_investment": 125800,
+        "quantity": 1509.3410129160966,
+        "total_value": 181739.75689259908,
+        "total_pnl": 55939.75689259908
+    },
+    {
+        "ticker": "VDE.MX",
+        "total_investment": 126000,
+        "quantity": 77.33479239860286,
+        "total_value": 181736.76213671672,
+        "total_pnl": 55736.762136716716
+    },
+    {
+        "ticker": "MGV",
+        "total_investment": 125800,
+        "quantity": 1400.9015833541484,
+        "total_value": 179413.47604067542,
+        "total_pnl": 53613.47604067542
+    },
+    {
+        "ticker": "VOO.MX",
+        "total_investment": 126000,
+        "quantity": 17.576715021200258,
+        "total_value": 178890.175444246,
+        "total_pnl": 52890.17544424601
+    },
+    {
+        "ticker": "VTV",
+        "total_investment": 125800,
+        "quantity": 1023.117692817202,
+        "total_value": 178175.93995950092,
+        "total_pnl": 52375.939959500916
+    },
+    {
+        "ticker": "VIS.MX",
+        "total_investment": 126000,
+        "quantity": 35.90291965036649,
+        "total_value": 178354.57281424242,
+        "total_pnl": 52354.57281424242
+    },
+    {
+        "ticker": "VFQY",
+        "total_investment": 125800,
+        "quantity": 1251.291978659467,
+        "total_value": 178021.31514997847,
+        "total_pnl": 52221.31514997847
+    },
+    {
+        "ticker": "VIG",
+        "total_investment": 125800,
+        "quantity": 893.2865708416987,
+        "total_value": 176727.81190400853,
+        "total_pnl": 50927.81190400853
+    },
+    {
+        "ticker": "VBR",
+        "total_investment": 125800,
+        "quantity": 877.1899312591872,
+        "total_value": 176016.93481883398,
+        "total_pnl": 50216.93481883398
+    },
+    {
+        "ticker": "VTI.MX",
+        "total_investment": 126000,
+        "quantity": 31.95213213299377,
+        "total_value": 173979.3594641511,
+        "total_pnl": 47979.359464151086
+    },
+    {
+        "ticker": "VYM",
+        "total_investment": 125800,
+        "quantity": 1362.5772909523648,
+        "total_value": 173483.3402682295,
+        "total_pnl": 47683.34026822951
+    },
+    {
+        "ticker": "IVOV",
+        "total_investment": 125800,
+        "quantity": 1817.977225773865,
+        "total_value": 173016.88924808303,
+        "total_pnl": 47216.889248083025
+    },
+    {
+        "ticker": "VOE",
+        "total_investment": 125800,
+        "quantity": 1033.4806283003159,
+        "total_value": 172467.25229704884,
+        "total_pnl": 46667.252297048835
+    },
+    {
+        "ticker": "VT",
+        "total_investment": 125800,
+        "quantity": 1449.491587459292,
+        "total_value": 171344.39922651372,
+        "total_pnl": 45544.39922651372
+    },
+    {
+        "ticker": "IVOO",
+        "total_investment": 125800,
+        "quantity": 1620.31150891676,
+        "total_value": 171315.54127704716,
+        "total_pnl": 45515.54127704716
+    },
+    {
+        "ticker": "VOX",
+        "total_investment": 125800,
+        "quantity": 1187.2552215258004,
+        "total_value": 170952.8858692877,
+        "total_pnl": 45152.88586928771
+    },
+    {
+        "ticker": "VONV",
+        "total_investment": 125800,
+        "quantity": 2055.311661778138,
+        "total_value": 170529.21108665748,
+        "total_pnl": 44729.21108665748
+    },
+    {
+        "ticker": "VCR",
+        "total_investment": 125800,
+        "quantity": 505.7763096347811,
+        "total_value": 170527.54240867097,
+        "total_pnl": 44727.54240867097
+    },
+    {
+        "ticker": "VAW",
+        "total_investment": 125800,
+        "quantity": 811.6878970935994,
+        "total_value": 168546.98687733617,
+        "total_pnl": 42746.98687733617
+    },
+    {
+        "ticker": "IVOG",
+        "total_investment": 125800,
+        "quantity": 1468.5650582926153,
+        "total_value": 168238.8094926381,
+        "total_pnl": 42438.8094926381
+    },
+    {
+        "ticker": "VFH.MX",
+        "total_investment": 126000,
+        "quantity": 80.0462655678856,
+        "total_value": 168097.15769255976,
+        "total_pnl": 42097.15769255976
+    },
+    {
+        "ticker": "VFMV",
+        "total_investment": 125800,
+        "quantity": 1376.9135933160583,
+        "total_value": 167418.91876889134,
+        "total_pnl": 41618.91876889134
+    },
+    {
+        "ticker": "VYMI",
+        "total_investment": 125800,
+        "quantity": 2306.1599472220505,
+        "total_value": 166527.80767755178,
+        "total_pnl": 40727.807677551784
+    },
+    {
+        "ticker": "VCR.MX",
+        "total_investment": 126000,
+        "quantity": 25.25076613723982,
+        "total_value": 166023.78735235182,
+        "total_pnl": 40023.78735235182
+    },
+    {
+        "ticker": "VPU",
+        "total_investment": 125800,
+        "quantity": 952.992023909799,
+        "total_value": 165591.8888396251,
+        "total_pnl": 39791.88883962511
+    },
+    {
+        "ticker": "VO",
+        "total_investment": 125800,
+        "quantity": 630.852074020303,
+        "total_value": 165497.730788237,
+        "total_pnl": 39697.73078823701
+    },
+    {
+        "ticker": "VTV.MX",
+        "total_investment": 126000,
+        "quantity": 49.008380166826576,
+        "total_value": 165599.316583707,
+        "total_pnl": 39599.316583707
+    },
+    {
+        "ticker": "VOX.MX",
+        "total_investment": 126000,
+        "quantity": 59.55728105732311,
+        "total_value": 165206.5322631925,
+        "total_pnl": 39206.532263192494
+    },
+    {
+        "ticker": "VTWV",
+        "total_investment": 125800,
+        "quantity": 1107.3859986821715,
+        "total_value": 164579.70171698614,
+        "total_pnl": 38779.701716986136
+    },
+    {
+        "ticker": "VB",
+        "total_investment": 125800,
+        "quantity": 694.3011576359277,
+        "total_value": 164486.8897981344,
+        "total_pnl": 38686.88979813439
+    },
+    {
+        "ticker": "VBR.MX",
+        "total_investment": 126000,
+        "quantity": 42.19528456301253,
+        "total_value": 164050.6203669942,
+        "total_pnl": 38050.620366994204
+    },
+    {
+        "ticker": "VIOV",
+        "total_investment": 125800,
+        "quantity": 1763.2913486853588,
+        "total_value": 163845.02889116065,
+        "total_pnl": 38045.02889116065
+    },
+    {
+        "ticker": "VIOG",
+        "total_investment": 125800,
+        "quantity": 1359.6707923630597,
+        "total_value": 163636.37778620125,
+        "total_pnl": 37836.37778620125
+    },
+    {
+        "ticker": "VDC",
+        "total_investment": 125800,
+        "quantity": 742.2633284799917,
+        "total_value": 162340.4175553164,
+        "total_pnl": 36540.41755531641
+    },
+    {
+        "ticker": "VGK",
+        "total_investment": 125800,
+        "quantity": 2320.890830328218,
+        "total_value": 162253.48644760178,
+        "total_pnl": 36453.48644760178
+    },
+    {
+        "ticker": "VHT",
+        "total_investment": 125800,
+        "quantity": 566.6708329310459,
+        "total_value": 161875.19221029314,
+        "total_pnl": 36075.19221029314
+    },
+    {
+        "ticker": "VXF",
+        "total_investment": 125800,
+        "quantity": 883.9701781537769,
+        "total_value": 161094.73012253753,
+        "total_pnl": 35294.73012253753
+    },
+    {
+        "ticker": "VTWO",
+        "total_investment": 125800,
+        "quantity": 1769.1999744023585,
+        "total_value": 159281.0715357764,
+        "total_pnl": 33481.0715357764
+    },
+    {
+        "ticker": "VT.MX",
+        "total_investment": 126000,
+        "quantity": 69.99024552644758,
+        "total_value": 159059.13823243594,
+        "total_pnl": 33059.138232435944
+    },
+    {
+        "ticker": "VOT",
+        "total_investment": 125800,
+        "quantity": 653.0919619587745,
+        "total_value": 157878.45447145545,
+        "total_pnl": 32078.45447145545
+    },
+    {
+        "ticker": "VIGI",
+        "total_investment": 125800,
+        "quantity": 1803.9417311280868,
+        "total_value": 157700.58283210138,
+        "total_pnl": 31900.582832101383
+    },
+    {
+        "ticker": "VEA",
+        "total_investment": 125800,
+        "quantity": 3027.562403155444,
+        "total_value": 157614.90286599667,
+        "total_pnl": 31814.90286599667
+    },
+    {
+        "ticker": "VGK.MX",
+        "total_investment": 126000,
+        "quantity": 115.34107855553506,
+        "total_value": 156748.52575697214,
+        "total_pnl": 30748.525756972143
+    },
+    {
+        "ticker": "VHT.MX",
+        "total_investment": 126000,
+        "quantity": 28.0733720224785,
+        "total_value": 154965.01356408134,
+        "total_pnl": 28965.01356408134
+    },
+    {
+        "ticker": "VEU",
+        "total_investment": 125800,
+        "quantity": 2506.194672035973,
+        "total_value": 154306.40519242492,
+        "total_pnl": 28506.40519242492
+    },
+    {
+        "ticker": "VNQ",
+        "total_investment": 125800,
+        "quantity": 1563.1445623822908,
+        "total_value": 153907.21218105877,
+        "total_pnl": 28107.21218105877
+    },
+    {
+        "ticker": "VXUS",
+        "total_investment": 125800,
+        "quantity": 2427.5914230642215,
+        "total_value": 153569.42934841107,
+        "total_pnl": 27769.429348411068
+    },
+    {
+        "ticker": "VTWG",
+        "total_investment": 125800,
+        "quantity": 735.2579829243025,
+        "total_value": 152904.2550653624,
+        "total_pnl": 27104.255065362406
+    },
+    {
+        "ticker": "VSGX",
+        "total_investment": 125800,
+        "quantity": 2505.05627451438,
+        "total_value": 150979.74281170545,
+        "total_pnl": 25179.74281170545
+    },
+    {
+        "ticker": "VDC.MX",
+        "total_investment": 126000,
+        "quantity": 35.67512709541696,
+        "total_value": 150834.4373594229,
+        "total_pnl": 24834.43735942291
+    },
+    {
+        "ticker": "VBK",
+        "total_investment": 125800,
+        "quantity": 562.0410441242655,
+        "total_value": 150312.25821276408,
+        "total_pnl": 24512.258212764078
+    },
+    {
+        "ticker": "VPL",
+        "total_investment": 125800,
+        "quantity": 1921.5587603162587,
+        "total_value": 148767.07570520559,
+        "total_pnl": 22967.075705205585
+    },
+    {
+        "ticker": "VSS",
+        "total_investment": 125800,
+        "quantity": 1203.2888293590156,
+        "total_value": 148642.26762186075,
+        "total_pnl": 22842.267621860752
+    },
+    {
+        "ticker": "VEA.MX",
+        "total_investment": 126000,
+        "quantity": 142.96967967151966,
+        "total_value": 143688.82134883222,
+        "total_pnl": 17688.82134883222
+    },
+    {
+        "ticker": "VWO",
+        "total_investment": 125800,
+        "quantity": 3129.260421843099,
+        "total_value": 142600.3964684155,
+        "total_pnl": 16800.396468415507
+    },
+    {
+        "ticker": "VXUS.MX",
+        "total_investment": 126000,
+        "quantity": 115.40486806309853,
+        "total_value": 139706.82010832283,
+        "total_pnl": 13706.820108322834
+    },
+    {
+        "ticker": "VNQ.MX",
+        "total_investment": 126000,
+        "quantity": 73.15997285596313,
+        "total_value": 139291.47104914463,
+        "total_pnl": 13291.471049144631
+    },
+    {
+        "ticker": "VEU.MX",
+        "total_investment": 126000,
+        "quantity": 119.01355154775018,
+        "total_value": 138857.86997058033,
+        "total_pnl": 12857.86997058033
+    },
+    {
+        "ticker": "VTIP",
+        "total_investment": 125800,
+        "quantity": 2794.0910585095585,
+        "total_value": 137720.7508320029,
+        "total_pnl": 11920.750832002901
+    },
+    {
+        "ticker": "VPL.MX",
+        "total_investment": 126000,
+        "quantity": 91.96856326588173,
+        "total_value": 137493.00208249319,
+        "total_pnl": 11493.002082493185
+    },
+    {
+        "ticker": "VWOB",
+        "total_investment": 125800,
+        "quantity": 2062.434175669334,
+        "total_value": 136347.5246123096,
+        "total_pnl": 10547.524612309586
+    },
+    {
+        "ticker": "VCSH",
+        "total_investment": 125800,
+        "quantity": 1708.489498235238,
+        "total_value": 135773.66251031283,
+        "total_pnl": 9973.662510312832
+    },
+    {
+        "ticker": "VCIT",
+        "total_investment": 125800,
+        "quantity": 1598.98553038936,
+        "total_value": 134026.9666692645,
+        "total_pnl": 8226.966669264511
+    },
+    {
+        "ticker": "VUSB",
+        "total_investment": 87200,
+        "quantity": 1887.577393302803,
+        "total_value": 94227.8600174185,
+        "total_pnl": 7027.860017418498
+    },
+    {
+        "ticker": "BSV",
+        "total_investment": 125800,
+        "quantity": 1685.631704985245,
+        "total_value": 132726.63684964037,
+        "total_pnl": 6926.636849640374
+    },
+    {
+        "ticker": "VGSH",
+        "total_investment": 125800,
+        "quantity": 2244.6422548333385,
+        "total_value": 132546.1234353825,
+        "total_pnl": 6746.123435382498
+    },
+    {
+        "ticker": "VTC",
+        "total_investment": 125800,
+        "quantity": 1661.7299356424946,
+        "total_value": 131974.58844600854,
+        "total_pnl": 6174.588446008536
+    },
+    {
+        "ticker": "VWO.MX",
+        "total_investment": 126000,
+        "quantity": 149.40406898158858,
+        "total_value": 132073.1969797243,
+        "total_pnl": 6073.196979724307
+    },
+    {
+        "ticker": "VTEB",
+        "total_investment": 125800,
+        "quantity": 2571.873926428777,
+        "total_value": 131242.72332616596,
+        "total_pnl": 5442.723326165957
+    },
+    {
+        "ticker": "VCEB",
+        "total_investment": 100500,
+        "quantity": 1630.00985334477,
+        "total_value": 105918.04574217799,
+        "total_pnl": 5418.0457421779865
+    },
+    {
+        "ticker": "VNQI",
+        "total_investment": 125800,
+        "quantity": 2858.7649601181356,
+        "total_value": 131217.31603155157,
+        "total_pnl": 5417.316031551571
+    },
+    {
+        "ticker": "BIV",
+        "total_investment": 125800,
+        "quantity": 1654.0249650715473,
+        "total_value": 129659.01600242186,
+        "total_pnl": 3859.016002421864
+    },
+    {
+        "ticker": "BNDX",
+        "total_investment": 125800,
+        "quantity": 2571.0984727337604,
+        "total_value": 128966.29900000693,
+        "total_pnl": 3166.299000006926
+    },
+    {
+        "ticker": "BNDW",
+        "total_investment": 125800,
+        "quantity": 1827.117582177179,
+        "total_value": 128884.87591955431,
+        "total_pnl": 3084.87591955431
+    },
+    {
+        "ticker": "VMBS",
+        "total_investment": 125800,
+        "quantity": 2724.4846513013626,
+        "total_value": 128759.14004754537,
+        "total_pnl": 2959.14004754537
+    },
+    {
+        "ticker": "BND",
+        "total_investment": 125800,
+        "quantity": 1711.8528844204616,
+        "total_value": 128697.10037314634,
+        "total_pnl": 2897.1003731463425
+    },
+    {
+        "ticker": "VGIT",
+        "total_investment": 125800,
+        "quantity": 2116.0383718515577,
+        "total_value": 128020.32149701923,
+        "total_pnl": 2220.321497019235
+    },
+    {
+        "ticker": "VCLT",
+        "total_investment": 125800,
+        "quantity": 1563.7558390046065,
+        "total_value": 127336.63844736552,
+        "total_pnl": 1536.6384473655198
+    },
+    {
+        "ticker": "VTES",
+        "total_investment": 38800,
+        "quantity": 395.01952582759725,
+        "total_value": 40047.07844344828,
+        "total_pnl": 1247.0784434482775
+    },
+    {
+        "ticker": "VPLS",
+        "total_investment": 20000,
+        "quantity": 263.9780343316589,
+        "total_value": 20899.140494679217,
+        "total_pnl": 899.1404946792172
+    },
+    {
+        "ticker": "VCRB",
+        "total_investment": 19500,
+        "quantity": 257.09036848743517,
+        "total_value": 20369.270758294784,
+        "total_pnl": 869.2707582947842
+    },
+    {
+        "ticker": "VTWO.MX",
+        "total_investment": 126000,
+        "quantity": 70.98831538178182,
+        "total_value": 126713.43238008146,
+        "total_pnl": 713.43238008146
+    },
+    {
+        "ticker": "VTEC",
+        "total_investment": 16400,
+        "quantity": 165.2077101627243,
+        "total_value": 16730.58425358778,
+        "total_pnl": 330.5842535877782
+    },
+    {
+        "ticker": "VTEI",
+        "total_investment": 16400,
+        "quantity": 165.5433998187052,
+        "total_value": 16713.26149413697,
+        "total_pnl": 313.2614941369684
+    },
+    {
+        "ticker": "VTIP.MX",
+        "total_investment": 126000,
+        "quantity": 131.35046558942702,
+        "total_value": 125439.69463790281,
+        "total_pnl": -560.3053620971914
+    },
+    {
+        "ticker": "BLV",
+        "total_investment": 125800,
+        "quantity": 1607.371573727477,
+        "total_value": 121051.14929316928,
+        "total_pnl": -4748.850706830723
+    },
+    {
+        "ticker": "BND.MX",
+        "total_investment": 126000,
+        "quantity": 82.83461453846456,
+        "total_value": 120441.52953892747,
+        "total_pnl": -5558.470461072531
+    },
+    {
+        "ticker": "VGSH.MX",
+        "total_investment": 126000,
+        "quantity": 108.86200697756193,
+        "total_value": 119923.4739118937,
+        "total_pnl": -6076.5260881063
+    },
+    {
+        "ticker": "BNDX.MX",
+        "total_investment": 126000,
+        "quantity": 123.01019134143561,
+        "total_value": 119688.91617521686,
+        "total_pnl": -6311.083824783142
+    },
+    {
+        "ticker": "VGLT",
+        "total_investment": 125800,
+        "quantity": 1826.8040688709705,
+        "total_value": 112713.81244307978,
+        "total_pnl": -13086.187556920224
+    },
+    {
+        "ticker": "EDV",
+        "total_investment": 125800,
+        "quantity": 1285.9792618956842,
+        "total_value": 102968.3591075377,
+        "total_pnl": -22831.640892462296
+    },
+    {
+        "ticker": "EDV.MX",
+        "total_investment": 126000,
+        "quantity": 63.33349635847331,
+        "total_value": 98783.15303821923,
+        "total_pnl": -27216.84696178077
+    }
+]

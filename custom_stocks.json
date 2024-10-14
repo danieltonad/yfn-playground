@@ -1,0 +1,352 @@
+[
+    {
+        "ticker": "SEZL",
+        "total_investment": 25300,
+        "quantity": 958.4390141111653,
+        "total_value": 143765.8521166748,
+        "total_pnl": 118465.8521166748
+    },
+    {
+        "ticker": "MPTI",
+        "total_investment": 49000,
+        "quantity": 2964.404698460341,
+        "total_value": 100760.12067632185,
+        "total_pnl": 51760.12067632185
+    },
+    {
+        "ticker": "CAVA",
+        "total_investment": 31300,
+        "quantity": 612.6431694936609,
+        "total_value": 77511.61174773554,
+        "total_pnl": 46211.611747735544
+    },
+    {
+        "ticker": "SN",
+        "total_investment": 28400,
+        "quantity": 540.0050464679865,
+        "total_value": 54950.91468215754,
+        "total_pnl": 26550.91468215754
+    },
+    {
+        "ticker": "STRW",
+        "total_investment": 39300,
+        "quantity": 5196.88033077375,
+        "total_value": 63557.84406641994,
+        "total_pnl": 24257.844066419937
+    },
+    {
+        "ticker": "FG",
+        "total_investment": 45400,
+        "quantity": 1659.5107225537724,
+        "total_value": 67940.36670236028,
+        "total_pnl": 22540.366702360276
+    },
+    {
+        "ticker": "SKWD",
+        "total_investment": 41900,
+        "quantity": 1502.1949740616549,
+        "total_value": 59366.74606256689,
+        "total_pnl": 17466.74606256689
+    },
+    {
+        "ticker": "ARM",
+        "total_investment": 25200,
+        "quantity": 284.59231971880365,
+        "total_value": 40412.10940007012,
+        "total_pnl": 15212.10940007012
+    },
+    {
+        "ticker": "ATMU",
+        "total_investment": 32700,
+        "quantity": 1321.0546620379728,
+        "total_value": 46950.28389829122,
+        "total_pnl": 14250.283898291222
+    },
+    {
+        "ticker": "BOF",
+        "total_investment": 31300,
+        "quantity": 20733.116172400667,
+        "total_value": 44783.53271192308,
+        "total_pnl": 13483.532711923079
+    },
+    {
+        "ticker": "DBD",
+        "total_investment": 27400,
+        "quantity": 956.2300951476077,
+        "total_value": 40668.46477935469,
+        "total_pnl": 13268.46477935469
+    },
+    {
+        "ticker": "KNF",
+        "total_investment": 32100,
+        "quantity": 529.857447574045,
+        "total_value": 43903.988429384684,
+        "total_pnl": 11803.988429384684
+    },
+    {
+        "ticker": "VTS",
+        "total_investment": 42200,
+        "quantity": 2067.5999620405664,
+        "total_value": 50862.959854924724,
+        "total_pnl": 8662.959854924724
+    },
+    {
+        "ticker": "HSHP",
+        "total_investment": 36600,
+        "quantity": 5926.367408606757,
+        "total_value": 45218.18400588848,
+        "total_pnl": 8618.184005888477
+    },
+    {
+        "ticker": "CART",
+        "total_investment": 24900,
+        "quantity": 835.1303377977124,
+        "total_value": 30440.5014498805,
+        "total_pnl": 5540.501449880499
+    },
+    {
+        "ticker": "HG",
+        "total_investment": 21000,
+        "quantity": 1357.5555686951066,
+        "total_value": 25250.534095595332,
+        "total_pnl": 4250.5340955953325
+    },
+    {
+        "ticker": "ATAT",
+        "total_investment": 46100,
+        "quantity": 2468.697596073546,
+        "total_value": 50237.99702183005,
+        "total_pnl": 4137.997021830051
+    },
+    {
+        "ticker": "NBBK",
+        "total_investment": 17800,
+        "quantity": 1183.3112313129163,
+        "total_value": 21299.602163632495,
+        "total_pnl": 3499.602163632495
+    },
+    {
+        "ticker": "LOAR",
+        "total_investment": 9800,
+        "quantity": 167.6873946902025,
+        "total_value": 13202.029146875091,
+        "total_pnl": 3402.029146875091
+    },
+    {
+        "ticker": "KSPI",
+        "total_investment": 16500,
+        "quantity": 145.9568052456089,
+        "total_value": 18324.87734401102,
+        "total_pnl": 1824.8773440110199
+    },
+    {
+        "ticker": "ULS",
+        "total_investment": 10700,
+        "quantity": 254.78072850071172,
+        "total_value": 12458.778012449342,
+        "total_pnl": 1758.778012449342
+    },
+    {
+        "ticker": "YIBO",
+        "total_investment": 16100,
+        "quantity": 6974.268954181642,
+        "total_value": 17784.385500604127,
+        "total_pnl": 1684.3855006041267
+    },
+    {
+        "ticker": "QMMM",
+        "total_investment": 4000,
+        "quantity": 877.6272251363537,
+        "total_value": 5213.105767528174,
+        "total_pnl": 1213.1057675281736
+    },
+    {
+        "ticker": "RDDT",
+        "total_investment": 12100,
+        "quantity": 219.1936734712802,
+        "total_value": 13070.51898321654,
+        "total_pnl": 970.5189832165397
+    },
+    {
+        "ticker": "WS",
+        "total_investment": 19600,
+        "quantity": 626.341619998288,
+        "total_value": 20506.425690037562,
+        "total_pnl": 906.4256900375622
+    },
+    {
+        "ticker": "CDTG",
+        "total_investment": 10200,
+        "quantity": 2883.0109292307343,
+        "total_value": 10638.310493828618,
+        "total_pnl": 438.31049382861784
+    },
+    {
+        "ticker": "STHO",
+        "total_investment": 36900,
+        "quantity": 2790.36993796223,
+        "total_value": 37195.63106014819,
+        "total_pnl": 295.63106014818914
+    },
+    {
+        "ticker": "OS",
+        "total_investment": 3700,
+        "quantity": 130.2409922767344,
+        "total_value": 3808.2465843619166,
+        "total_pnl": 108.24658436191658
+    },
+    {
+        "ticker": "MAMO",
+        "total_investment": 11500,
+        "quantity": 3057.9797033933055,
+        "total_value": 11467.423887724895,
+        "total_pnl": -32.576112275104606
+    },
+    {
+        "ticker": "RITR",
+        "total_investment": 1400,
+        "quantity": 278.6840860443996,
+        "total_value": 1351.6177907379524,
+        "total_pnl": -48.38220926204758
+    },
+    {
+        "ticker": "TXO",
+        "total_investment": 41000,
+        "quantity": 2220.146977292151,
+        "total_value": 40872.90551318096,
+        "total_pnl": -127.09448681904178
+    },
+    {
+        "ticker": "HDL",
+        "total_investment": 8200,
+        "quantity": 486.9509589412648,
+        "total_value": 7464.9581634181795,
+        "total_pnl": -735.0418365818205
+    },
+    {
+        "ticker": "BIRK",
+        "total_investment": 23300,
+        "quantity": 484.1284776544412,
+        "total_value": 22269.909972104295,
+        "total_pnl": -1030.0900278957051
+    },
+    {
+        "ticker": "CHSN",
+        "total_investment": 36700,
+        "quantity": 19845.96801851478,
+        "total_value": 35226.592759698986,
+        "total_pnl": -1473.407240301014
+    },
+    {
+        "ticker": "ICG",
+        "total_investment": 37700,
+        "quantity": 4757.808418146261,
+        "total_value": 36016.61054209914,
+        "total_pnl": -1683.389457900863
+    },
+    {
+        "ticker": "ODD",
+        "total_investment": 29200,
+        "quantity": 770.0708270804623,
+        "total_value": 27260.508453683196,
+        "total_pnl": -1939.4915463168036
+    },
+    {
+        "ticker": "ALAB",
+        "total_investment": 12300,
+        "quantity": 217.6835418191261,
+        "total_value": 9107.879422928108,
+        "total_pnl": -3192.1205770718916
+    },
+    {
+        "ticker": "NXT",
+        "total_investment": 40100,
+        "quantity": 973.8599720452958,
+        "total_value": 35331.63859700942,
+        "total_pnl": -4768.36140299058
+    },
+    {
+        "ticker": "ELWS",
+        "total_investment": 28800,
+        "quantity": 10152.900822636358,
+        "total_value": 21625.679914122735,
+        "total_pnl": -7174.320085877265
+    },
+    {
+        "ticker": "GMM",
+        "total_investment": 23400,
+        "quantity": 16279.299556102167,
+        "total_value": 14651.369212363203,
+        "total_pnl": -8748.630787636797
+    },
+    {
+        "ticker": "ZKH",
+        "total_investment": 18700,
+        "quantity": 2749.8421748734827,
+        "total_value": 8167.031338047859,
+        "total_pnl": -10532.968661952142
+    },
+    {
+        "ticker": "WBUY",
+        "total_investment": 22700,
+        "quantity": 75171.6708410664,
+        "total_value": 8644.742303542962,
+        "total_pnl": -14055.257696457038
+    },
+    {
+        "ticker": "SNAL",
+        "total_investment": 46200,
+        "quantity": 38572.660690913566,
+        "total_value": 31629.581490655957,
+        "total_pnl": -14570.418509344043
+    },
+    {
+        "ticker": "LQR",
+        "total_investment": 27600,
+        "quantity": 19678.831527068105,
+        "total_value": 12122.160154988765,
+        "total_pnl": -15477.839845011235
+    },
+    {
+        "ticker": "HSAI",
+        "total_investment": 40100,
+        "quantity": 5854.986539782156,
+        "total_value": 22541.69761978627,
+        "total_pnl": -17558.30238021373
+    },
+    {
+        "ticker": "SRFM",
+        "total_investment": 28600,
+        "quantity": 6994.478302941314,
+        "total_value": 10491.71745441197,
+        "total_pnl": -18108.28254558803
+    },
+    {
+        "ticker": "QSG",
+        "total_investment": 41200,
+        "quantity": 12636.192384889433,
+        "total_value": 20976.078937138034,
+        "total_pnl": -20223.921062861966
+    },
+    {
+        "ticker": "CISS",
+        "total_investment": 31500,
+        "quantity": 8917.516835444942,
+        "total_value": 10879.370794375032,
+        "total_pnl": -20620.629205624966
+    },
+    {
+        "ticker": "WLDS",
+        "total_investment": 50400,
+        "quantity": 90856.83655639153,
+        "total_value": 28529.047631833088,
+        "total_pnl": -21870.952368166912
+    },
+    {
+        "ticker": "TRNR",
+        "total_investment": 34700,
+        "quantity": 10736.904234962647,
+        "total_value": 3489.493748368988,
+        "total_pnl": -31210.506251631014
+    }
+]
