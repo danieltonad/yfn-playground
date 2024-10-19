@@ -53,7 +53,7 @@ def get_ticker_info(ticker_symbol):
     save_to_csv(cashflow, f"{ticker_symbol}_cashflow.csv")
 
     # Earnings
-    earnings = ticker.earnings
+    earnings = ticker.income_stmt
     save_to_csv(earnings, f"{ticker_symbol}_earnings.csv")
 
     # Sustainability (ESG Scores)
@@ -70,9 +70,41 @@ def get_ticker_info(ticker_symbol):
 
     # Major Holders
     major_holders = ticker.major_holders
-    save_to_csv(major_holders, f"{ticker_symbol}_major_holders.csv")
+
+
+def get_options_data(ticker_symbol):
+    # Fetch the ticker data
+    ticker = yf.Ticker(ticker_symbol)
+    
+    # Get the expiration dates for options
+    expiration_dates = ticker.options
+    print(f"Available Expiration Dates for {ticker_symbol}:")
+    print(expiration_dates)
+    
+    # Loop through each expiration date and fetch the options data
+    for exp_date in expiration_dates:
+        print(f"\nFetching options chain for expiration date: {exp_date}")
+
+        # Get the option chain for this expiration date
+        options_chain = ticker.option_chain(exp_date)
+        
+        # Separate calls and puts
+        calls = options_chain.calls
+        puts = options_chain.puts
+        
+        # Save the calls and puts to CSV files
+        calls_filename = f"{ticker_symbol}_calls_{exp_date}.csv"
+        puts_filename = f"{ticker_symbol}_puts_{exp_date}.csv"
+
+        calls.to_csv(calls_filename)
+        puts.to_csv(puts_filename)
+
+        print(f"Calls saved to {calls_filename}")
+        print(f"Puts saved to {puts_filename}")
+
 
 if __name__ == "__main__":
     # Example: Get information about Apple (AAPL)
-    ticker_symbol = input("Enter the ticker symbol (e.g., AAPL, TSLA): ").upper()
-    get_ticker_info(ticker_symbol)
+    # ticker_symbol = input("Enter the ticker symbol (e.g., AAPL, TSLA): ").upper()
+    # get_ticker_info(ticker_symbol)
+    get_options_data("AAPL")
