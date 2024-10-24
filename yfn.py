@@ -1,7 +1,7 @@
 import yfinance as yf
 
 # Define the stock ticker
-ticker = 'SATS-USD'
+ticker = 'BTC-USD'
 
 # Get the stock data
 stock = yf.Ticker(ticker)
@@ -40,4 +40,4 @@ def check_eps_increase_status(eps_data, threshold=0.20):
 #
 
 
-stock.history()
+print(stock.history(period="max", interval="1wk"))
