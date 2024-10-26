@@ -1,6 +1,7 @@
 import pandas as pd
 import yfinance as yf
 import pandas_ta as ta
+import numpy as np
 
 # Fetch historical data using yfinance
 def get_data(ticker, period="1y", interval="1d"):
@@ -14,6 +15,10 @@ def calculate_indicators(df):
     df['WILLIAMS'] = ta.willr(df['High'], df['Low'], df['Close'], length=14)
     df['SMI'] = ta.sma(df['Close'], length=14)
     df['MFI'] = ta.mfi(df['High'], df['Low'], df['Close'], df['Volume'], length=14)
+    
+    # Handle NaN values after calculating indicators
+    df.fillna(method='bfill', inplace=True)  # Backfill to handle initial NaNs
+    df.fillna(0, inplace=True)  # Or use 0 for remaining NaNs if preferred
 
 # Define the overbought and oversold conditions and generate signals
 def generate_signals(df):
