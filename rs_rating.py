@@ -1,58 +1,36 @@
 import yfinance as yf
 import pandas as pd
 
-def get_stock_data(ticker, period="1y"):
-    """
-    Retrieve stock data for the given ticker from Yahoo Finance.
-    :param ticker: Stock ticker symbol (e.g., 'AAPL' for Apple).
-    :param period: Time period for retrieving historical data (e.g., '1y' for one year).
-    :return: A pandas DataFrame containing the stock's historical data.
-    """
-    stock = yf.Ticker(ticker)
-    return stock.history(period=period)
 
-def calculate_relative_strength(stock_ticker, benchmark_ticker="^GSPC"):
-    """
-    Calculate the RS rating of the given stock compared to a benchmark index.
-    :param stock_ticker: The ticker symbol of the stock to analyze (e.g., 'AAPL').
-    :param benchmark_ticker: The ticker symbol of the benchmark index (e.g., '^GSPC' for S&P 500).
-    :return: The calculated RS rating.
-    """
-    # Step 1: Get stock and benchmark data
-    stock_data = get_stock_data(stock_ticker)
-    benchmark_data = get_stock_data(benchmark_ticker)
-    # print(benchmark_data)
+def calculate_relative_strength(ticker, benchmark_ticker="^GSPC", period="1y"):
+    try:
+        stock_data = yf.Ticker(ticker).history(period=period)
+        benchmark_data = yf.Ticker(benchmark_ticker).history(period=period)
 
-    # Step 2: Calculate the percentage changes over different periods (63, 126, 189, 252 days)
-    periods = [62, 125, 188, 251]
-    stock_returns = {}
-    benchmark_returns = {}
+        # changes over different periods (63, 126, 189, 252 days)
+        periods = [62, 125, 188, 251]
+        stock_returns = {}
+        benchmark_returns = {}
 
-    for period in periods:
-        stock_returns[period] = stock_data['Close'].pct_change(periods=period).iloc[-1]
-        benchmark_returns[period] = benchmark_data['Close'].pct_change(periods=period).iloc[-1]
-    
-    # Step 3: Calculate the weighted relative strength score
-    rs_stock = 0.4 * stock_returns[periods[0]] + 0.2 * stock_returns[periods[1]] + 0.2 * stock_returns[periods[2]] + 0.2 * stock_returns[periods[3]]
-    rs_benchmark = 0.4 * benchmark_returns[periods[0]] + 0.2 * benchmark_returns[periods[1]] + 0.2 * benchmark_returns[periods[2]] + 0.2 * benchmark_returns[periods[3]]
+        for period in periods:
+            stock_returns[period] = stock_data['Close'].pct_change(periods=period).iloc[-1]
+            benchmark_returns[period] = benchmark_data['Close'].pct_change(periods=period).iloc[-1]
+        
+        #relative strength score
+        rs_stock = 0.4 * stock_returns[periods[0]] + 0.2 * stock_returns[periods[1]] + 0.2 * stock_returns[periods[2]] + 0.2 * stock_returns[periods[3]]
+        rs_benchmark = 0.4 * benchmark_returns[periods[0]] + 0.2 * benchmark_returns[periods[1]] + 0.2 * benchmark_returns[periods[2]] + 0.2 * benchmark_returns[periods[3]]
 
-    # Step 4: Calculate the total relative strength score
-    rs_score = (rs_stock / rs_benchmark) * 100
-    # print(rs_score)
+        rs_score = (rs_stock / rs_benchmark) * 100
 
-    # Step 5: Map the RS score to a percentile rank (RS rating from 1 to 99)
-    if rs_score >= 1:
-        rs_rating = min(int(rs_score / 1.01), 99)
-    else:
-        rs_rating = 1
-
-    return rs_rating
+        return min(int(rs_score / 1.01), 99) if rs_score >= 1 else 1
+    except Exception as err:
+        return 1
 
 
 
-# stock_ticker = 'NVDA'  # Replace with your desired stock ticker
-# rs_rating = calculate_relative_strength(stock_ticker)
-# print(f"RS Rating for {stock_ticker}: {rs_rating}")
+stock_ticker = 'GALAXIS-USD'  # Replace with your desired stock ticker
+rs_rating = calculate_relative_strength(stock_ticker)
+print(f"RS Rating for {stock_ticker}: {rs_rating}")
 
 
 def bulk_test():
