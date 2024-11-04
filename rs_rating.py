@@ -28,7 +28,7 @@ def calculate_relative_strength(ticker, benchmark_ticker="^GSPC", period="1y"):
 
 
 
-stock_ticker = 'GALAXIS-USD'  # Replace with your desired stock ticker
+stock_ticker = 'BTC-USD'  # Replace with your desired stock ticker
 rs_rating = calculate_relative_strength(stock_ticker)
 print(f"RS Rating for {stock_ticker}: {rs_rating}")
 
